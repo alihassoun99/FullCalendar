@@ -12,6 +12,7 @@ function load_page() {
     // call functions that you want to initialize when loading the page
 }
 
+
 // FullCalendar **************************************************************************************************************
 // ***************************************************************************************************************************
 document.addEventListener('DOMContentLoaded', function() {
